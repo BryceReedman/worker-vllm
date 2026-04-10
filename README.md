@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Runpod](https://api.runpod.io/badge/BryceReedman/worker-vllm)](https://console.runpod.io/hub/BryceReedman/worker-vllm)
+
 # OpenAI-Compatible vLLM Serverless Endpoint Worker
 
 Deploy OpenAI-Compatible Blazing-Fast LLM Endpoints powered by the [vLLM](https://github.com/vllm-project/vllm) Inference Engine on RunPod Serverless with just a few clicks.
